@@ -4,3 +4,5 @@
 
 The project will use three.js to procedurally generate the landscape, textures and trees; with sliders to manipulate the map in real time.
 It will also support viewing the environment in different weathers/seasons.
+
+* (Quickhull algorithm)[https://codesandbox.io/s/mQ7AgN1n?file=/index.js:751-758] for clouds
